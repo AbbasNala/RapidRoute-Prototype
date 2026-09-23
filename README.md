@@ -84,7 +84,7 @@ The driver's view is built around getting a journey started quickly and keeping 
 - **Route status** for the current journey
 - **Emergency controls** to start the journey and report roadblocks
 
-![Ambulance Dashboard](screenshots/ambulance-dashboard.png)
+![Ambulance Dashboard](C:\Users\dahod\OneDrive\Desktop\RapidRoute\Imagee\Driver_Dashboard.png)
 
 ### Traffic Police Dashboard
 
@@ -96,7 +96,7 @@ The officer's view is built around what is coming and what needs attention.
 - **Emergency alerts** when an ambulance is approaching
 - **Junction status** (approaching, preparing, cleared)
 
-![Police Dashboard](screenshots/police-dashboard.png)
+![Police Dashboard](C:\Users\dahod\OneDrive\Desktop\RapidRoute\Imagee\Police_Dashboard.png)
 
 ### Emergency Alert
 
@@ -108,7 +108,7 @@ When an ambulance is approaching a junction, the police dashboard shows an **AMB
 - **Destination** hospital
 - **Acknowledge** action for the officer
 
-![Emergency Alert](screenshots/emergency-alert.png)
+![Emergency Alert](C:\Users\dahod\OneDrive\Desktop\RapidRoute\Imagee\Emergency_Alert.png)
 
 ## 🧭 Demo Workflow
 
@@ -240,10 +240,6 @@ A real deployment would require, at minimum:
 ## 👥 Hackathon Project
 
 RapidRoute was developed as a hackathon concept and prototype.
-
-- **Team members:** _to be added_
-- **Hackathon:** _to be added_
-- **Date:** _to be added_
 
 ## 📄 License
 
